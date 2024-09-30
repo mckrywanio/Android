@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result:</string>
+    <string name="enter_value_to_convert">Enter value to convert</string>
+</resources>
