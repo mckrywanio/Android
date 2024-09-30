@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
         weightButton.setOnClickListener {
             val intent = Intent(this, ConversionActivity::class.java)
             intent.putExtra("conversionType", "Weight")
+
             startActivity(intent)
         }
     }
